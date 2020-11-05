@@ -4,7 +4,7 @@
 ## Further readings
 
 - [ConTeXt Garden, Layout][3]
-- Official document:
+- Official documents:
     - [Column sets][1], 2016
     - [Page columns][2], unknown date
 
