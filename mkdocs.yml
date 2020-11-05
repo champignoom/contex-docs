@@ -1,2 +1,6 @@
 site_name: ConTeX
 theme: readthedocs
+nav:
+        - index.md
+        - file2.md
+        - file1.md
