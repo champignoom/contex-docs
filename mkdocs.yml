@@ -7,3 +7,8 @@ nav:
         - quick-start.md
         - layout.md
         - command-reference.md
+        - Appendix:
+                - appendix/color-table.md
+extra_javascript:
+        - js/color/defs.js
+        - js/color/gen-table.js
