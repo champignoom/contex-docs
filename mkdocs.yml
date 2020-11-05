@@ -2,5 +2,5 @@ site_name: ConTeX
 theme: readthedocs
 nav:
         - index.md
-        - Installation
-        - Quick start
+        - installation.md
+        - quick-start.md
