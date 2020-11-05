@@ -4,8 +4,9 @@
 ## Further readings
 
 - [ConTeXt Garden, Layout][3]
-- [Column sets][1]
-- [Page columns][2]
+- Official document:
+  - [Column sets][1], 2016
+  - [Page columns][2], unknown date
 
 [1]: http://www.pragma-ade.com/general/manuals/columnsets.pdf
 [2]: http://www.pragma-ade.com/general/manuals/pagecolumns.pdf
