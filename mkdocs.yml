@@ -12,3 +12,5 @@ nav:
 extra_javascript:
         - js/color/defs.js
         - js/color/gen-table.js
+extra_css:
+        - css/color/color-table.js
