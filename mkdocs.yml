@@ -2,5 +2,8 @@ site_name: ConTeX
 theme: readthedocs
 nav:
         - index.md
+        - license.md
         - installation.md
         - quick-start.md
+        - layout.md
+        - command-reference.md

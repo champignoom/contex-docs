@@ -1,9 +1,8 @@
 # Quick Start
 
-```
-\starttext
+## Further readings
 
-Some text.
+- [ConTeXt Mark IV, an excursion][1]
 
-\stoptext
-```
+[1]: http://www.pragma-ade.com/general/manuals/ma-cb-en.pdf
+[2]: http://www.pragma-ade.com/general/manuals/cont-eni.pdf
