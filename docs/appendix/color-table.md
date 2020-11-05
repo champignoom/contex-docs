@@ -4,7 +4,7 @@
 ## Crayola
 
 
-<table id="table"><colgroup id="colgroup"></colgroup><tr><td>haha</td><td>hehe</td></tr></table>
+<table id="table" class="color-table"><colgroup id="colgroup"></colgroup><tr><td>haha</td><td>hehe</td></tr></table>
 <script type="module">
 import { crayola_colors } from '../../js/color/defs.js';
 import { create_table } from '../../js/color/gen-table.js';

@@ -1,0 +1,10 @@
+table.color-table {
+	table-layout: fixed;
+	font-size: 7pt;
+	text-align: center;
+	font-family: monospace;
+}
+
+table.color-table col {
+	width: 132px;
+}
