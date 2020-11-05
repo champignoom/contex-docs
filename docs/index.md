@@ -7,4 +7,4 @@
 
 [1]: https://bitbucket.org/phg/context-mirror/
 [2]: http://www.pragma-ade.com/overview.htm
-[3]: http://wiki.contextgarden.net/
+[3]: https://wiki.contextgarden.net/
