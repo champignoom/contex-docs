@@ -6,7 +6,8 @@ table.color-table {
 }
 
 table.color-table td {
-	min-width: 100px;
-	max-width: 100px;
-	padding: 0px;
+	min-width: 110px;
+	max-width: 110px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
