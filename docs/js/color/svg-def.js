@@ -1,4 +1,4 @@
-export svg_colors = {
+export let svg_colors = {
 	"000000": "black",
 	"000080": "navy",
 	"00008B": "darkblue",
