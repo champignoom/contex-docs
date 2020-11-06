@@ -15,7 +15,7 @@ nav:
         - bibliography.md
         - fine-tuning.md
         - programming-with-lua.md
-        - i18n.md
+        - languages.md
         - command-reference.md
         - Appendix:
                 - appendix/color-table.md
