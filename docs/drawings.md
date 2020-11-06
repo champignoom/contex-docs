@@ -1,4 +1,4 @@
-# Drawing with MetaFun
+# Drawing
 
 ## Further readings
 

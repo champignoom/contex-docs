@@ -9,12 +9,13 @@ nav:
         - layout.md
         - math.md
         - table.md
-        - metafun.md
+        - drawings.md
         - fonts.md
         - colors.md
         - bibliography.md
         - fine-tuning.md
         - programming-with-lua.md
+        - i18n.md
         - command-reference.md
         - Appendix:
                 - appendix/color-table.md
