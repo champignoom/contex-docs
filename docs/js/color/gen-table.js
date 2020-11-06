@@ -51,6 +51,8 @@ export function create_table(table, colors, nCol) {
 	let keys = Object.keys(colors);
 	keys.sort(cmpColor);
 
+	table.removeChild(table.lastChild);
+
 	let pCol = 0;
 	let tr;
 	for (let c of keys) {

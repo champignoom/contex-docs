@@ -4,22 +4,30 @@
 ## Crayola
 
 See [colo-imp-crayola.mkiv](https://source.contextgarden.net/tex/context/base/mkiv/colo-imp-crayola.mkiv).
-<table id="table_crayola" class="color-table"></table>
+<table id="table_crayola" class="color-table">
+<tr><td>loading ... </td></tr>
+</table>
 
 ## RAL
 
 See [colo-imp-ral.mkiv](https://source.contextgarden.net/tex/context/base/mkiv/colo-imp-ral.mkiv).
-<table id="table_ral" class="color-table"></table>
+<table id="table_ral" class="color-table">
+<tr><td>loading ... </td></tr>
+</table>
 
 ## SVG
 
 See [colo-imp-svg.mkiv](https://source.contextgarden.net/tex/context/base/mkiv/colo-imp-svg.mkiv).
-<table id="table_svg" class="color-table"></table>
+<table id="table_svg" class="color-table">
+<tr><td>loading ... </td></tr>
+</table>
 
 ## X11
 
 See [colo-imp-x11.mkiv](https://source.contextgarden.net/tex/context/base/mkiv/colo-imp-x11.mkiv).
-<table id="table_x11" class="color-table"></table>
+<table id="table_x11" class="color-table">
+<tr><td>loading ... </td></tr>
+</table>
 
 <script type="module">
 import { create_table } from '../../js/color/gen-table.js';
