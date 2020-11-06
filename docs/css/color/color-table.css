@@ -5,7 +5,7 @@ table.color-table {
 	font-family: monospace;
 }
 
-table.color-table td {
+table.color-table>tr>td {
 	min-width: 110px;
 	max-width: 110px;
 	padding-left: 0px;
