@@ -4,7 +4,8 @@ nav:
         - index.md
         - license.md
         - installation.md
-        - quick-start.md
+        - document-structure.md
+        - configuration.md
         - layout.md
         - math.md
         - table.md
