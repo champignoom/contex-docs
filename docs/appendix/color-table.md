@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="../../css/color/color-table.css"/>
 # Table of Color Names
 
+<!-- TODO: use inline-blocks instead of table/td -->
+
 ## Crayola
 
 See [colo-imp-crayola.mkiv](https://source.contextgarden.net/tex/context/base/mkiv/colo-imp-crayola.mkiv).

@@ -1,10 +1,7 @@
 # Introduction
 
 ## See also
-- [Mirror of ConTeXt source code][1]
-- [List of offical manuals][2]
-- [ConTeXt Garden][3]
-
-[1]: https://bitbucket.org/phg/context-mirror/
-[2]: http://www.pragma-ade.com/overview.htm
-[3]: https://wiki.contextgarden.net/
+- [ConTeXt Mark IV, an excursion](http://www.pragma-ade.com/general/manuals/ma-cb-en.pdf), 2013
+- [ConTeXt, the manual](http://www.pragma-ade.com/general/manuals/cont-eni.pdf), 2001
+- [List of offical manuals](http://www.pragma-ade.com/overview.htm)
+- [ConTeXt Garden](https://wiki.contextgarden.net)
