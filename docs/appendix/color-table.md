@@ -26,7 +26,7 @@ import { create_table } from '../../js/color/gen-table.js';
 import { crayola_colors } from '../../js/color/crayola-def.js';
 import { ral_colors } from '../../js/color/ral-def.js'
 import { svg_colors } from '../../js/color/svg-def.js'
-import { x11_colors } from '../../js/color/svg-def.js'
+import { x11_colors } from '../../js/color/x11-def.js'
 
 create_table(table_crayola, crayola_colors, 6);
 create_table(table_ral, ral_colors, 6);
