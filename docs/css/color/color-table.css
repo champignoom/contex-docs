@@ -5,9 +5,9 @@ table.color-table {
 	font-family: monospace;
 }
 
-table.color-table>tr>td {
+table.color-table td {
 	min-width: 110px;
 	max-width: 110px;
-	padding-left: 0px;
-	padding-right: 0px;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
 }
