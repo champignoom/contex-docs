@@ -11,11 +11,11 @@ nav:
         - table.md
         - drawings.md
         - fonts.md
+        - languages.md
         - colors.md
         - bibliography.md
         - fine-tuning.md
         - programming-with-lua.md
-        - languages.md
         - command-reference.md
         - Appendix:
                 - appendix/color-table.md
