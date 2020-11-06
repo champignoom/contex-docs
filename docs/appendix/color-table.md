@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../../css/color/color-table.css"/>
-# Color Table
+# Table of Color Names
 
 ## Crayola
 
