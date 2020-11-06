@@ -47,15 +47,10 @@ function cmpColor(a, b) {
 	}
 }
 
-export function create_table(table, colgroup, colors, nCol) {
+export function create_table(table, colors, nCol) {
 	let keys = Object.keys(colors);
 	keys.sort(cmpColor);
 
-	// FIXME: col are useless here
-	for (let i=0; i<nCol; ++i) {
-		const col = document.createElement("col");
-		colgroup.appendChild(col);
-	}
 	let pCol = 0;
 	let tr;
 	for (let c of keys) {
