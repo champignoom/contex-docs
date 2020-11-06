@@ -1,5 +1,7 @@
 # Document Structure
 
+Under construction ...
+
 ## Further readings
 
 - ConTeXt Garden: [Titles](https://wiki.contextgarden.net/Titles)
