@@ -51,6 +51,7 @@ export function create_table(table, colgroup, colors, nCol) {
 	let keys = Object.keys(colors);
 	keys.sort(cmpColor);
 
+	// FIXME: col are useless here
 	for (let i=0; i<nCol; ++i) {
 		const col = document.createElement("col");
 		colgroup.appendChild(col);
