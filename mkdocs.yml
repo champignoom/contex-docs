@@ -9,6 +9,7 @@ nav:
         - math.md
         - metafun.md
         - fonts.md
+        - colors.md
         - fine-tuning.md
         - programming-with-lua.md
         - command-reference.md
