@@ -7,6 +7,7 @@ nav:
         - quick-start.md
         - layout.md
         - math.md
+        - metafun.md
         - fonts.md
         - fine-tuning.md
         - programming-with-lua.md
