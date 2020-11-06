@@ -6,6 +6,8 @@ nav:
         - installation.md
         - quick-start.md
         - layout.md
+        - fonts.md
+        - fine-tuning.md
         - command-reference.md
         - Appendix:
                 - appendix/color-table.md
