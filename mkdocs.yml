@@ -14,6 +14,7 @@ nav:
         - fonts.md
         - languages.md
         - colors.md
+        - highlighting.md
         - bibliography.md
         - fine-tuning.md
         - programming-with-lua.md
