@@ -2,6 +2,11 @@
 
 Under construction ...
 
+## Unicode support
+
+<!-- ### math greek != text greek -->
+<!-- https://mailman.ntg.nl/pipermail/ntg-context/2020/099880.html -->
+
 ## Further readings
 
 - ConTeXt Garden: [Math](https://wiki.contextgarden.net/Math)
