@@ -1,5 +1,7 @@
 # Document Structure
 
+<!-- gallery at the beginning -->
+
 Under construction ...
 
 ## Further readings
