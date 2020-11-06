@@ -10,6 +10,7 @@ nav:
         - metafun.md
         - fonts.md
         - colors.md
+        - bibliography.md
         - fine-tuning.md
         - programming-with-lua.md
         - command-reference.md
