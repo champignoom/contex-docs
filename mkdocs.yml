@@ -1,6 +1,17 @@
 site_name: ConTeX
 theme: readthedocs
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
+        - useless title:
+          - Not So Short Introduction:
+            - What is ConTeXt and how do we work with it:
+              - not-so-short-intro/overview.md
+            - Appendices:
+              - not-so-short-intro/appendix-install.md
         - index.md
         - license.md
         - installation.md
