@@ -3,8 +3,8 @@ theme: readthedocs
 markdown_extensions:
   - footnotes
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.superfences
 nav:
         - useless title:
           - Not So Short Introduction:
