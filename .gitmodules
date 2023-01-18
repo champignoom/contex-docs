@@ -1,0 +1,3 @@
+[submodule "not-so-short-introduction-to-context"]
+	path = not-so-short-introduction-to-context
+	url = git@github.com:contextgarden/not-so-short-introduction-to-context.git
