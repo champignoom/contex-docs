@@ -525,7 +525,7 @@ command `texexec` and Mark&nbsp;IV with the command `context`.
 
 !!! note ""
 
-    In fact both commands, `context` and `texexec`, are *  scripts* with different options that run `mtxrun`, which in turn
+    In fact both commands, `context` and `texexec`, are *scripts* with different options that run `mtxrun`, which in turn
     is a Lua *script*.
 
 Today, Mark&nbsp;II is frozen and Mark&nbsp;IV continues to be developed, which
