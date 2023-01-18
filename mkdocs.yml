@@ -10,6 +10,7 @@ nav:
           - Not So Short Introduction:
             - What is ConTeXt and how do we work with it:
               - not-so-short-intro/overview.md
+              - not-so-short-intro/first-source.md
             - Appendices:
               - not-so-short-intro/appendix-install.md
         - index.md
