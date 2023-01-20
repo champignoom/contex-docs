@@ -1,38 +1,43 @@
 site_name: ConTeX
-theme: readthedocs
+theme:
+  name: readthedocs
+  # features:
+  #   - search.highlight
 markdown_extensions:
+  - markdown.extensions.md_in_html
   - footnotes
   - admonition
   # - pymdownx.details
   # - pymdownx.superfences
 nav:
-        - useless title:
-          - Not So Short Introduction:
-            - What is ConTeXt and how do we work with it:
-              - not-so-short-intro/overview.md
-              - not-so-short-intro/first-source.md
-            - Appendices:
-              - not-so-short-intro/appendix-install.md
-        - index.md
-        - license.md
-        - installation.md
-        - document-structure.md
-        - configuration.md
-        - layout.md
-        - slides.md
-        - math.md
-        - table.md
-        - drawings.md
-        - fonts.md
-        - languages.md
-        - colors.md
-        - highlighting.md
-        - bibliography.md
-        - fine-tuning.md
-        - programming-with-lua.md
-        - command-reference.md
-        - Appendix:
-                - appendix/color-table.md
+        - Not So Short Introduction:
+          - What is ConTeXt and how do we work with it:
+            - not-so-short-intro/overview.md
+            - not-so-short-intro/first-source.md
+            - not-so-short-intro/commands.md
+          - Appendices:
+            - not-so-short-intro/appendix-install.md
+        - Reference:
+          - index.md
+          - license.md
+          - installation.md
+          - document-structure.md
+          - configuration.md
+          - layout.md
+          - slides.md
+          - math.md
+          - table.md
+          - drawings.md
+          - fonts.md
+          - languages.md
+          - colors.md
+          - highlighting.md
+          - bibliography.md
+          - fine-tuning.md
+          - programming-with-lua.md
+          - command-reference.md
+          - Appendix:
+                  - appendix/color-table.md
 # extra_javascript:
 #         - js/color/defs.js
 #         - js/color/gen-table.js
