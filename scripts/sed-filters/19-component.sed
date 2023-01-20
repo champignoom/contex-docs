@@ -1,1 +1,1 @@
-/^\s*\\stopcomponent/,$d
+# /^\s*\\stopcomponent/,$d

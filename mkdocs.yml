@@ -15,6 +15,7 @@ nav:
             - not-so-short-intro/overview.md
             - not-so-short-intro/first-source.md
             - not-so-short-intro/commands.md
+            - not-so-short-intro/projects.md
           - Appendices:
             - not-so-short-intro/appendix-install.md
         - Reference:
