@@ -16,6 +16,8 @@ nav:
             - not-so-short-intro/first-source.md
             - not-so-short-intro/commands.md
             - not-so-short-intro/projects.md
+          - Global aspects of the document:
+            - not-so-short-intro/pages.md
           - Appendices:
             - not-so-short-intro/appendix-install.md
         - Reference:

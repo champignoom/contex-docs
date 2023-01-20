@@ -792,7 +792,7 @@ Just like with the `\environment` and `\component` commands, the
 square brackets or not use square brackets at all. This means that
 `\project FileName` and `\Project[FileName]` are equivalent commands.
 
-##### Summary of the different ways of loading an environment
+#### Summary of the different ways of loading an environment
 
 It follows from the above that an environment can be loaded by any of the
 following procedures:
